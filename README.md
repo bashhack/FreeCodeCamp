@@ -10,4 +10,4 @@ This repo chronicles a part of that work/journey....
 
 For more information about the Free Code Camp project, please visit: [Free Code Camp](http://freecodecamp.com/)
 
-bashhack, 2015 - [Resume](https://www.linkedin.com/in/marclaughton) - [Website](http://www.marclaughton.com/)
+bashhack, 2015 - [LinkedIn](https://www.linkedin.com/in/marclaughton) - [Website](http://www.marclaughton.com/)
