@@ -1,5 +1,5 @@
 /**
- * Created by marclaughton on 11/8/15.
+ * Created by marclaughton on 02/01/16.
  */
 
 
@@ -23,8 +23,8 @@ var result = factorialize(5);
 console.log(result);
 
 // Cases
-//factorialize() should return a number.
-//factorialize(5) should return 120.
-//factorialize(10) should return 3628800.
-//factorialize(20) should return 2432902008176640000.
-//factorialize(0) should return 1.
+// factorialize() should return a number.
+// factorialize(5) should return 120.
+// factorialize(10) should return 3628800.
+// factorialize(20) should return 2432902008176640000.
+// factorialize(0) should return 1.
